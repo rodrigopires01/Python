@@ -1,0 +1,10 @@
+id,nome,codpostal,salbruto,degsocial,seguro,ilhas
+1,Manuel da Rocha,9500,2500,287.50,28.75,"SMA, SMG, TER"
+2,José dos Santos,9500,3000,345.00,34.50,"SMA, TER, PIC"
+3,António Pedro Sousa,9300,2500,287.50,28.75,"TER, PIC, FAI, FLO"
+4,Rosa da Silva Pereira,9900,3250,373.75,37.38,"FLO, PIC, GRA"
+5,Richardo Sousa,9900,3500,402.50,40.25,"JOR, FAI, PIC, SMG"
+6,Manuela Francisco Pedro,9800,2500,287.50,28.75,"PIC, SMG, FAI"
+7,Rosalina da Silva,9100,2250,258.75,25.88,"CRV, FLO, PIC, SMA"
+8,Florbela Espantada,9200,5000,575.00,57.50,"SMA, FLO, GRA, PIC"
+9,Manuela Francisca Pedro, "9400",2500,287.50,28.75
