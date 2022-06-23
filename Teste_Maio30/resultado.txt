@@ -1,0 +1,15 @@
+Total Porto Santo: 11905
+Total Madeira: 10274
+Total São Miguel: 18293
+Total Terceira: 19144
+Total Santa Maria: 14086
+Total Pico: 18901
+Total Faial: 20215
+Total Graciosa: 25864
+Total São Jorge: 16687
+Total Flores: 13578
+Total Corvo: 17451
+---------------------------
+Total SATA: 64548
+Total TAP: 70624
+Total Ryanair: 51226
