@@ -1,0 +1,6 @@
+"ID", "Nome", "Preco", "Stock", "Encomendas", "Minimo"
+1, "Batatas", "1.50€", 100, 30, 120
+2, "Cenouras", "1.25€", 170, 45, 150
+3, "Cebolas", "0.99€", 80, 25, 100
+4, "Alhos", "1.00€", 100, 30, 130
+5, "Repolhos", "2.00€", 90, 25, 115
